@@ -16,3 +16,7 @@ How do the diagrams help you visualize the branch structure?
 
 Shows how the history of the git commits works, so you can see the linear fashion that the commits are formed in. If you have a branch then there
 is that new line off to the side which will not see anything on the old branch (eg master) commited after where it joins. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Quicker when a file has been changed by two people but not the same lines, best guess is going to work most of the time. Merging manually is more likely to avoid bugs but will slow the merge down. 
