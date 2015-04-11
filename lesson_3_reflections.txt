@@ -15,3 +15,7 @@ branch: commits which are made off the master with different code leaving the ma
 fork - when changes will be made but not integrated into the original repo
 clone - when you would like a local copy of a repo to work on the repo.
 branch - when writing experimental code or new features to a program which are not ready to be included on the master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+helps with merging later on because you can see what has changed since the last pull and if there will be an issue arising from this. 
