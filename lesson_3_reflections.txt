@@ -23,3 +23,7 @@ helps with merging later on because you can see what has changed since the last 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 USB sticks with the files on them, email etc. may be easier to do some merges, a lot harder to track changes and bugs though
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When making beta addons or working on new parts of a program. It lets you try new things without killing the master branch. 
