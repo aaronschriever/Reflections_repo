@@ -19,3 +19,7 @@ branch - when writing experimental code or new features to a program which are n
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 helps with merging later on because you can see what has changed since the last pull and if there will be an issue arising from this. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+USB sticks with the files on them, email etc. may be easier to do some merges, a lot harder to track changes and bugs though
